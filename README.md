@@ -1,2 +1,3 @@
-# c-learnThese are excercises out of the book
+# Learning C
+These are solutions to the excercises from the book
 "The C Programming Language" second edition
